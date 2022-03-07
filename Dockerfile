@@ -1,4 +1,4 @@
-FROM alpine:3
+FROM alpine:latest
 
 ENV BASE_URL="https://get.helm.sh"
 
